@@ -13,7 +13,6 @@ function ColorSchemesExample() {
             <Navbar.Brand>Home</Navbar.Brand>
           </Link>
           <Nav className="me-auto">
-            <Nav.Link href='/maps'>Maps</Nav.Link>
             <Nav.Link href='/productos'>Productos</Nav.Link>
           </Nav>
         </Container>
